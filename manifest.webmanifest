@@ -1,7 +1,7 @@
 {
   "name": "psmfc-elog",
   "short_name": "psmfc-elog",
-  "theme_color": "#1976d2",
+  "theme_color": "#005d87",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
