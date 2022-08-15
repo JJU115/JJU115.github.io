@@ -1,0 +1,111 @@
+{
+  "configVersion": 1,
+  "timestamp": 1660597956337,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/FishVueIcon.ico",
+        "/index.html",
+        "/main.e21fb4d4517dab04.js",
+        "/manifest.webmanifest",
+        "/polyfills.24a8b430e6121817.js",
+        "/runtime.10f76304893cfd21.js",
+        "/scripts.3ab7b00d5fc3ec38.js",
+        "/styles.106126560294f2fe.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-1024x1024.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/FishVueFloat-FullColour-Horizontal.png",
+        "/assets/images/PSMFCLogoTOP.jpg",
+        "/assets/images/logo.png",
+        "/material-icons-outlined.ecaf031e8bd777ed.woff2",
+        "/material-icons-outlined.f7ea5a06680aa7e1.woff",
+        "/material-icons-round.3aab59045199567d.woff",
+        "/material-icons-round.dffed381bbd1912f.woff2",
+        "/material-icons-sharp.19cd372fb6b86b2a.woff2",
+        "/material-icons-sharp.2efdbf64369bc761.woff",
+        "/material-icons-two-tone.13e71fc69afcf8ef.woff2",
+        "/material-icons-two-tone.2ebf90cdae2abc54.woff",
+        "/material-icons.3705a31196184f2e.woff2",
+        "/material-icons.5b9775d40fb74d4e.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/FishVueIcon.ico": "164d7351a207aa3206132737a3e106040359df91",
+    "/assets/icons/icon-1024x1024.png": "59b25c015268ec5859bcbb3907cd8852301c1332",
+    "/assets/icons/icon-128x128.png": "d9f9f8063e018bc94ba11211fb3362d587fe1d12",
+    "/assets/icons/icon-144x144.png": "6bc9aac0954895dbbcda312d1f33db25aa5f4b06",
+    "/assets/icons/icon-152x152.png": "979b02c936c324685ad6199a083104ae80055a92",
+    "/assets/icons/icon-192x192.png": "87d8c1ac342f8551c0f4f937841e7dd0dd9e20b9",
+    "/assets/icons/icon-384x384.png": "3f34d7ba7054c447cefd4a125bd8cf472adfa59b",
+    "/assets/icons/icon-512x512.png": "53c6a7e020c576ca63d6eae53109aeaaa74273ca",
+    "/assets/icons/icon-72x72.png": "ab16e343ebc164b4c91daa8c12c4efba1157f13b",
+    "/assets/icons/icon-96x96.png": "3bc8fb79bf4ef81b5feff4ac93ef1e104f3c04a9",
+    "/assets/images/FishVueFloat-FullColour-Horizontal.png": "5f6cce5c703938c9fb2ee0fd2df4c856d2e32984",
+    "/assets/images/PSMFCLogoTOP.jpg": "3f840aaa1372e016315b40673efe2d1163cb8e02",
+    "/assets/images/logo.png": "229071e3ea2f8ef101a6efd06913bafdff6efe7c",
+    "/index.html": "bc8e1b6cc7bbd8d45d46b4bf18af5c67c333a745",
+    "/main.e21fb4d4517dab04.js": "9b408266e58e2317268b0297f250261e18a250ab",
+    "/manifest.webmanifest": "cff533f2c0dd3e2128c38ece51a0c5868625b964",
+    "/material-icons-outlined.ecaf031e8bd777ed.woff2": "955fd044ad401e12b1d0856282f9ffdf36106816",
+    "/material-icons-outlined.f7ea5a06680aa7e1.woff": "a61d7edfdc614e24b0d8e8d8f73dbfbb71727ad9",
+    "/material-icons-round.3aab59045199567d.woff": "3dda5a3fe5555997adafa3fbb3fd791ddf73cb1f",
+    "/material-icons-round.dffed381bbd1912f.woff2": "624cde41b7fd62c50b14c95b749dc2dce5e5381e",
+    "/material-icons-sharp.19cd372fb6b86b2a.woff2": "183ddaafb22f4e82218310dea8a1e553e9b3168f",
+    "/material-icons-sharp.2efdbf64369bc761.woff": "ac59a29fa36485c07d09ae18804fb39372b9db9e",
+    "/material-icons-two-tone.13e71fc69afcf8ef.woff2": "043704ed4b21da24b82f8ccdbf3d615a9586c8de",
+    "/material-icons-two-tone.2ebf90cdae2abc54.woff": "4f4f941ee18bca79058c4f8af465b493b5774e89",
+    "/material-icons.3705a31196184f2e.woff2": "60709a7f0c7ec3f3056fb0ea7d190fb01e382d55",
+    "/material-icons.5b9775d40fb74d4e.woff": "2844b8765d440ebda7847822563978e1f9ec3ce2",
+    "/polyfills.24a8b430e6121817.js": "457ab562f57df29faf318e6e97d3c651fa9ef880",
+    "/runtime.10f76304893cfd21.js": "cdcb91800bb17f80417a883b60c2f42d1d01b6fd",
+    "/scripts.3ab7b00d5fc3ec38.js": "f72db3c3075024324a4d648abe9a7d556e013738",
+    "/styles.106126560294f2fe.css": "3e89068ba87209e5e4d4194a6a55347a31912253"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
