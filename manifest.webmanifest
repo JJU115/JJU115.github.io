@@ -1,58 +1,64 @@
 {
-  "name": "psmfc-elog",
-  "short_name": "psmfc-elog",
-  "theme_color": "#005d87",
-  "background_color": "#fafafa",
+  "name": "FishVue FLOAT",
+  "short_name": "FishVue FLOAT",
+  "theme_color": "#ffffff",
+  "background_color": "#005d87",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
   "icons": [
     {
-      "src": "assets/icons/FishVueBlob_72px.png",
-      "sizes": "72x49",
-      "type": "image/png",
+      "src": "assets/icons/FishVue_72px72.jpg",
+      "sizes": "72x72",
+      "type": "image/jpg",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/FishVueBlob_96px.png",
-      "sizes": "96x65",
-      "type": "image/png",
+      "src": "assets/icons/FishVue_96px96.jpg",
+      "sizes": "96x96",
+      "type": "image/jpg",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/FishVueBlob_128px.png",
-      "sizes": "128x87",
-      "type": "image/png",
+      "src": "assets/icons/FishVue_128px128.jpg",
+      "sizes": "128x128",
+      "type": "image/jpg",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/FishVueBlob_144px.png",
-      "sizes": "144x98",
-      "type": "image/png",
+      "src": "assets/icons/FishVue_144px144.jpg",
+      "sizes": "144x144",
+      "type": "image/jpg",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/FishVueBlob_152px.png",
-      "sizes": "152x103",
-      "type": "image/png",
+      "src": "assets/icons/FishVue_152px152.jpg",
+      "sizes": "152x152",
+      "type": "image/jpg",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/FishVueBlob_192px.png",
-      "sizes": "192x129",
-      "type": "image/png",
+      "src": "assets/icons/FishVue_192px192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/FishVueBlob_384px.png",
-      "sizes": "384x257",
-      "type": "image/png",
+      "src": "assets/icons/FishVue_384px384.jpg",
+      "sizes": "384x384",
+      "type": "image/jpg",
       "purpose": "maskable any"
     },
     {
-      "src": "assets/icons/FishVueBlob_512px.png",
-      "sizes": "512x342",
-      "type": "image/png",
+      "src": "assets/icons/FishVue_512px512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/icons/FishVue_1024px1024.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpg",
       "purpose": "maskable any"
     }
   ]
