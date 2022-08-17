@@ -1,7 +1,7 @@
 {
   "name": "FishVue FLOAT",
   "short_name": "FishVue FLOAT",
-  "theme_color": "#ffffff",
+  "theme_color": "#005d87",
   "background_color": "#005d87",
   "display": "standalone",
   "scope": "./",

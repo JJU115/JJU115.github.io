@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1660597956337,
+  "timestamp": 1660770895952,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,9 +13,9 @@
       "urls": [
         "/FishVueIcon.ico",
         "/index.html",
-        "/main.e21fb4d4517dab04.js",
+        "/main.d0d9f9af7ebf8853.js",
         "/manifest.webmanifest",
-        "/polyfills.24a8b430e6121817.js",
+        "/polyfills.1c43f24ac4acab00.js",
         "/runtime.10f76304893cfd21.js",
         "/scripts.3ab7b00d5fc3ec38.js",
         "/styles.106126560294f2fe.css"
@@ -24,7 +24,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
@@ -71,9 +71,9 @@
     "/assets/images/FishVueFloat-FullColour-Horizontal.png": "5f6cce5c703938c9fb2ee0fd2df4c856d2e32984",
     "/assets/images/PSMFCLogoTOP.jpg": "3f840aaa1372e016315b40673efe2d1163cb8e02",
     "/assets/images/logo.png": "229071e3ea2f8ef101a6efd06913bafdff6efe7c",
-    "/index.html": "bc8e1b6cc7bbd8d45d46b4bf18af5c67c333a745",
-    "/main.e21fb4d4517dab04.js": "9b408266e58e2317268b0297f250261e18a250ab",
-    "/manifest.webmanifest": "cff533f2c0dd3e2128c38ece51a0c5868625b964",
+    "/index.html": "4eaaa68e6406f5d4fd1d79c5f5eb5c2510e6ceaf",
+    "/main.d0d9f9af7ebf8853.js": "87579bbdfb7d133cf31f791b789b8ed92ec00b75",
+    "/manifest.webmanifest": "4501d65f1430e3a8975e9cc8c8aa9f046b673520",
     "/material-icons-outlined.ecaf031e8bd777ed.woff2": "955fd044ad401e12b1d0856282f9ffdf36106816",
     "/material-icons-outlined.f7ea5a06680aa7e1.woff": "a61d7edfdc614e24b0d8e8d8f73dbfbb71727ad9",
     "/material-icons-round.3aab59045199567d.woff": "3dda5a3fe5555997adafa3fbb3fd791ddf73cb1f",
@@ -84,7 +84,7 @@
     "/material-icons-two-tone.2ebf90cdae2abc54.woff": "4f4f941ee18bca79058c4f8af465b493b5774e89",
     "/material-icons.3705a31196184f2e.woff2": "60709a7f0c7ec3f3056fb0ea7d190fb01e382d55",
     "/material-icons.5b9775d40fb74d4e.woff": "2844b8765d440ebda7847822563978e1f9ec3ce2",
-    "/polyfills.24a8b430e6121817.js": "457ab562f57df29faf318e6e97d3c651fa9ef880",
+    "/polyfills.1c43f24ac4acab00.js": "bbf3029bb6f576a571842c94d7090afac03ac811",
     "/runtime.10f76304893cfd21.js": "cdcb91800bb17f80417a883b60c2f42d1d01b6fd",
     "/scripts.3ab7b00d5fc3ec38.js": "f72db3c3075024324a4d648abe9a7d556e013738",
     "/styles.106126560294f2fe.css": "3e89068ba87209e5e4d4194a6a55347a31912253"
