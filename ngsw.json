@@ -1,0 +1,123 @@
+{
+  "configVersion": 1,
+  "timestamp": 1669154510433,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/FishVueIcon.ico",
+        "/index.html",
+        "/main.ec3cfa66b48d1eee.js",
+        "/manifest.webmanifest",
+        "/polyfills.b5e07642964dcfbc.js",
+        "/runtime.04ecd244e18bfc84.js",
+        "/scripts.3ab7b00d5fc3ec38.js",
+        "/styles.ae1dc1795ca082a0.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/App field instructions.pdf",
+        "/assets/LookupData20220908.json",
+        "/assets/Non-trawl eLogbook Instructions.pdf",
+        "/assets/icons/icon-1024x1024.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/DownloadApp.png",
+        "/assets/images/DownloadAppIos.png",
+        "/assets/images/FishVueFloat FullColour Horizontal.png",
+        "/assets/images/PSMFCLogoTOP.jpg",
+        "/assets/images/logo.png",
+        "/assets/images/noaa-emblem-rgb-withspace-2022.png",
+        "/material-icons-outlined.ecaf031e8bd777ed.woff2",
+        "/material-icons-outlined.f7ea5a06680aa7e1.woff",
+        "/material-icons-round.3aab59045199567d.woff",
+        "/material-icons-round.dffed381bbd1912f.woff2",
+        "/material-icons-sharp.19cd372fb6b86b2a.woff2",
+        "/material-icons-sharp.2efdbf64369bc761.woff",
+        "/material-icons-two-tone.13e71fc69afcf8ef.woff2",
+        "/material-icons-two-tone.2ebf90cdae2abc54.woff",
+        "/material-icons.3705a31196184f2e.woff2",
+        "/material-icons.5b9775d40fb74d4e.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/FishVueIcon.ico": "164d7351a207aa3206132737a3e106040359df91",
+    "/assets/App field instructions.pdf": "44fab70ac1e50d393c465efc6a3b8f803c577912",
+    "/assets/LookupData20220908.json": "0f0fbf7c76df9a92aa888998bfcc8724dc9fc358",
+    "/assets/Non-trawl eLogbook Instructions.pdf": "551b40238c0b3dfc2ad4ef223b9bae9905742c6d",
+    "/assets/icons/icon-1024x1024.png": "59b25c015268ec5859bcbb3907cd8852301c1332",
+    "/assets/icons/icon-128x128.png": "d9f9f8063e018bc94ba11211fb3362d587fe1d12",
+    "/assets/icons/icon-144x144.png": "6bc9aac0954895dbbcda312d1f33db25aa5f4b06",
+    "/assets/icons/icon-152x152.png": "979b02c936c324685ad6199a083104ae80055a92",
+    "/assets/icons/icon-192x192.png": "87d8c1ac342f8551c0f4f937841e7dd0dd9e20b9",
+    "/assets/icons/icon-384x384.png": "3f34d7ba7054c447cefd4a125bd8cf472adfa59b",
+    "/assets/icons/icon-512x512.png": "53c6a7e020c576ca63d6eae53109aeaaa74273ca",
+    "/assets/icons/icon-72x72.png": "ab16e343ebc164b4c91daa8c12c4efba1157f13b",
+    "/assets/icons/icon-96x96.png": "3bc8fb79bf4ef81b5feff4ac93ef1e104f3c04a9",
+    "/assets/images/DownloadApp.png": "f6a13689a3976c25f0b63670c5c25d99d29a16d5",
+    "/assets/images/DownloadAppIos.png": "c227571e98afc964cd00741289ce149aecba387d",
+    "/assets/images/FishVueFloat FullColour Horizontal.png": "1eda596dba29caaa99d36c76dfb17138a85f6026",
+    "/assets/images/PSMFCLogoTOP.jpg": "3f840aaa1372e016315b40673efe2d1163cb8e02",
+    "/assets/images/logo.png": "229071e3ea2f8ef101a6efd06913bafdff6efe7c",
+    "/assets/images/noaa-emblem-rgb-withspace-2022.png": "9cd2668c4405dbf6618d49810b2f7a23fe0f61ff",
+    "/index.html": "8e3df16ac51acead75d8d7a9971167dc82d38885",
+    "/main.ec3cfa66b48d1eee.js": "cdf5b40a377b91409c61745c5e5241af99b56f0f",
+    "/manifest.webmanifest": "a03492d6eec34c8f437f92e04dbe842d66b3be86",
+    "/material-icons-outlined.ecaf031e8bd777ed.woff2": "955fd044ad401e12b1d0856282f9ffdf36106816",
+    "/material-icons-outlined.f7ea5a06680aa7e1.woff": "a61d7edfdc614e24b0d8e8d8f73dbfbb71727ad9",
+    "/material-icons-round.3aab59045199567d.woff": "3dda5a3fe5555997adafa3fbb3fd791ddf73cb1f",
+    "/material-icons-round.dffed381bbd1912f.woff2": "624cde41b7fd62c50b14c95b749dc2dce5e5381e",
+    "/material-icons-sharp.19cd372fb6b86b2a.woff2": "183ddaafb22f4e82218310dea8a1e553e9b3168f",
+    "/material-icons-sharp.2efdbf64369bc761.woff": "ac59a29fa36485c07d09ae18804fb39372b9db9e",
+    "/material-icons-two-tone.13e71fc69afcf8ef.woff2": "043704ed4b21da24b82f8ccdbf3d615a9586c8de",
+    "/material-icons-two-tone.2ebf90cdae2abc54.woff": "4f4f941ee18bca79058c4f8af465b493b5774e89",
+    "/material-icons.3705a31196184f2e.woff2": "60709a7f0c7ec3f3056fb0ea7d190fb01e382d55",
+    "/material-icons.5b9775d40fb74d4e.woff": "2844b8765d440ebda7847822563978e1f9ec3ce2",
+    "/polyfills.b5e07642964dcfbc.js": "f28d69f5dec418679c01a2fe54c94a6477c2d81e",
+    "/runtime.04ecd244e18bfc84.js": "ebe976d99e60d6ec1a2864381bc6c0d2fcc8379c",
+    "/scripts.3ab7b00d5fc3ec38.js": "f72db3c3075024324a4d648abe9a7d556e013738",
+    "/styles.ae1dc1795ca082a0.css": "9abb1f59cf094f64c6db62441a8bb2c421d4ebc6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
