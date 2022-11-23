@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1669154889807,
+  "timestamp": 1669228466537,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "/FishVueIcon.ico",
         "/index.html",
-        "/main.01117e253b639e17.js",
+        "/main.a6793bcd5fb2cc50.js",
         "/manifest.webmanifest",
         "/polyfills.b5e07642964dcfbc.js",
-        "/runtime.04ecd244e18bfc84.js",
+        "/runtime.1a6e930b79e0fdda.js",
         "/scripts.3ab7b00d5fc3ec38.js",
         "/styles.ae1dc1795ca082a0.css"
       ],
@@ -30,9 +30,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/App field instructions.pdf",
         "/assets/LookupData20220908.json",
-        "/assets/Non-trawl eLogbook Instructions.pdf",
         "/assets/icons/icon-1024x1024.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
@@ -65,9 +63,7 @@
   "dataGroups": [],
   "hashTable": {
     "/FishVueIcon.ico": "164d7351a207aa3206132737a3e106040359df91",
-    "/assets/App field instructions.pdf": "44fab70ac1e50d393c465efc6a3b8f803c577912",
     "/assets/LookupData20220908.json": "0f0fbf7c76df9a92aa888998bfcc8724dc9fc358",
-    "/assets/Non-trawl eLogbook Instructions.pdf": "551b40238c0b3dfc2ad4ef223b9bae9905742c6d",
     "/assets/icons/icon-1024x1024.png": "59b25c015268ec5859bcbb3907cd8852301c1332",
     "/assets/icons/icon-128x128.png": "d9f9f8063e018bc94ba11211fb3362d587fe1d12",
     "/assets/icons/icon-144x144.png": "6bc9aac0954895dbbcda312d1f33db25aa5f4b06",
@@ -83,8 +79,8 @@
     "/assets/images/PSMFCLogoTOP.jpg": "3f840aaa1372e016315b40673efe2d1163cb8e02",
     "/assets/images/logo.png": "229071e3ea2f8ef101a6efd06913bafdff6efe7c",
     "/assets/images/noaa-emblem-rgb-withspace-2022.png": "9cd2668c4405dbf6618d49810b2f7a23fe0f61ff",
-    "/index.html": "347d4bc8cf90c4d6bb2263501fcbd72c70a61a07",
-    "/main.01117e253b639e17.js": "ec28a7e744d3f17aa121b6d52e180f6f93a2790e",
+    "/index.html": "cc86ea0f1d53a0900ab0f3314078ebc4494dcf83",
+    "/main.a6793bcd5fb2cc50.js": "57ba576562d44f341ba0b11490c7574bd759fc7b",
     "/manifest.webmanifest": "4501d65f1430e3a8975e9cc8c8aa9f046b673520",
     "/material-icons-outlined.ecaf031e8bd777ed.woff2": "955fd044ad401e12b1d0856282f9ffdf36106816",
     "/material-icons-outlined.f7ea5a06680aa7e1.woff": "a61d7edfdc614e24b0d8e8d8f73dbfbb71727ad9",
@@ -97,7 +93,7 @@
     "/material-icons.3705a31196184f2e.woff2": "60709a7f0c7ec3f3056fb0ea7d190fb01e382d55",
     "/material-icons.5b9775d40fb74d4e.woff": "2844b8765d440ebda7847822563978e1f9ec3ce2",
     "/polyfills.b5e07642964dcfbc.js": "f28d69f5dec418679c01a2fe54c94a6477c2d81e",
-    "/runtime.04ecd244e18bfc84.js": "ebe976d99e60d6ec1a2864381bc6c0d2fcc8379c",
+    "/runtime.1a6e930b79e0fdda.js": "3a192f03d0b1c70a464df6967f5d6eb7db347b87",
     "/scripts.3ab7b00d5fc3ec38.js": "f72db3c3075024324a4d648abe9a7d556e013738",
     "/styles.ae1dc1795ca082a0.css": "9abb1f59cf094f64c6db62441a8bb2c421d4ebc6"
   },
