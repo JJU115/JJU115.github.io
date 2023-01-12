@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1673304253719,
+  "timestamp": 1673567834280,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/FishVueIcon.ico",
         "/index.html",
-        "/main.642460cfa65d97e1.js",
+        "/main.48ee618c1c9e5d99.js",
         "/manifest.webmanifest",
         "/polyfills.bfb8f3c92a4402c9.js",
         "/runtime.1a6e930b79e0fdda.js",
@@ -53,6 +53,8 @@
         "/assets/images/download_icon.png",
         "/assets/images/install_app_banner.png",
         "/assets/images/install_prompt.png",
+        "/assets/images/ios-add-btn.png",
+        "/assets/images/ios-menu-btn.png",
         "/assets/images/logo.png",
         "/assets/images/main_menu.jpg",
         "/assets/images/main_menu_sets.png",
@@ -109,6 +111,8 @@
     "/assets/images/download_icon.png": "1150f28fca1012401f3177571c3812c6d8f66a32",
     "/assets/images/install_app_banner.png": "645013e68b0662314b8808c91ecd2af4df6bea83",
     "/assets/images/install_prompt.png": "9c9488c28abbfea4004437b329ddd83328aaa22e",
+    "/assets/images/ios-add-btn.png": "b04f8aff472620d61612217ef4b2cd94f07b914b",
+    "/assets/images/ios-menu-btn.png": "85935a3142fbdca3ebd69db254792588e3c48b13",
     "/assets/images/logo.png": "229071e3ea2f8ef101a6efd06913bafdff6efe7c",
     "/assets/images/main_menu.jpg": "4324d0499ecf22487e5446fdf21b1af0d1327b2f",
     "/assets/images/main_menu_sets.png": "4dba7769afa7004941e4b5a08d22289028861f3d",
@@ -125,8 +129,8 @@
     "/assets/images/view_delivery_1.png": "6b9bb3b05849fd1a13b141569457a6d7f20ce019",
     "/assets/images/view_delivery_2.png": "0087fd12cbff972149ecd93dbfbb587f484d9f5d",
     "/assets/images/view_set_1.jpg": "978176de4220c8ce965b21fb7d421d48ecd345d7",
-    "/index.html": "079ad79abd679fe5c84387626a795225cdc7241e",
-    "/main.642460cfa65d97e1.js": "af8fefbf1f2495e6111a26708de130820f951241",
+    "/index.html": "62820ec9ad0fd46ce49586a4c53997f0c275647e",
+    "/main.48ee618c1c9e5d99.js": "4bf1e4c5ff04078f4ebc5a22e8edf7e2a0b2e9a5",
     "/manifest.webmanifest": "4501d65f1430e3a8975e9cc8c8aa9f046b673520",
     "/material-icons-outlined.78a93b2079680a08.woff": "b52ccd8fca4199d257b2a9fe377db29862f2853e",
     "/material-icons-outlined.f86cb7b0aa53f0fe.woff2": "2f9e28ab559782402f27332633c843c40209d95a",
