@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1680581824487,
+  "timestamp": 1680582581203,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/FishVueIcon.ico",
         "/index.html",
-        "/main.67fc22bae22404af.js",
+        "/main.36220562f568c675.js",
         "/manifest.webmanifest",
         "/polyfills.bfb8f3c92a4402c9.js",
         "/runtime.1a6e930b79e0fdda.js",
@@ -125,8 +125,8 @@
     "/assets/images/view_delivery_1.png": "5b0b6ee5751c0700700b15f0926f30d6b9374251",
     "/assets/images/view_delivery_2.png": "0087fd12cbff972149ecd93dbfbb587f484d9f5d",
     "/assets/images/view_set_1.jpg": "978176de4220c8ce965b21fb7d421d48ecd345d7",
-    "/index.html": "7e8809bbab81f4d6dcdf7f8df0f46b45b9a5d23b",
-    "/main.67fc22bae22404af.js": "7710536f224903b521b787158e64642ca3353dde",
+    "/index.html": "c7d6f2422709a9a249116f2207df76bfd25855b0",
+    "/main.36220562f568c675.js": "c40e20407b4d501c88b54d3b7e14f0b735fba26f",
     "/manifest.webmanifest": "4501d65f1430e3a8975e9cc8c8aa9f046b673520",
     "/material-icons-outlined.78a93b2079680a08.woff": "b52ccd8fca4199d257b2a9fe377db29862f2853e",
     "/material-icons-outlined.f86cb7b0aa53f0fe.woff2": "2f9e28ab559782402f27332633c843c40209d95a",
