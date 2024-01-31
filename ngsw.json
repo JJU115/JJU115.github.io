@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1700164016059,
+  "timestamp": 1706745186711,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,12 +13,12 @@
       "urls": [
         "/FishVueIcon.ico",
         "/index.html",
-        "/main.1b122db184998ccf.js",
+        "/main.1bdbfa0a7e763bd3.js",
         "/manifest.webmanifest",
         "/polyfills.bfb8f3c92a4402c9.js",
         "/runtime.1a6e930b79e0fdda.js",
-        "/scripts.16f9259526a5167e.js",
-        "/styles.4eea28f5aa4c28c8.css"
+        "/scripts.a93305f457ed440a.js",
+        "/styles.1761a930b781ce32.css"
       ],
       "patterns": []
     },
@@ -153,8 +153,8 @@
     "/assets/images/view_delivery_1.png": "5b0b6ee5751c0700700b15f0926f30d6b9374251",
     "/assets/images/view_delivery_2.png": "0087fd12cbff972149ecd93dbfbb587f484d9f5d",
     "/assets/images/view_set_1.jpg": "978176de4220c8ce965b21fb7d421d48ecd345d7",
-    "/index.html": "a8f6251f537d6d487474fc48a7e0d9813043aae4",
-    "/main.1b122db184998ccf.js": "5858d57e097896a0797ff7f6c02646d0f84ff5c8",
+    "/index.html": "fb5dbcf8934315ad9765187014882d7f98fdee2b",
+    "/main.1bdbfa0a7e763bd3.js": "3634c589d08905a2b3d04dd4ace600464b6fc5ed",
     "/manifest.webmanifest": "4501d65f1430e3a8975e9cc8c8aa9f046b673520",
     "/material-icons-outlined.78a93b2079680a08.woff": "b52ccd8fca4199d257b2a9fe377db29862f2853e",
     "/material-icons-outlined.f86cb7b0aa53f0fe.woff2": "2f9e28ab559782402f27332633c843c40209d95a",
@@ -168,8 +168,8 @@
     "/material-icons.59322316b3fd6063.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
     "/polyfills.bfb8f3c92a4402c9.js": "3ad0affedfb06999ae41b3ba6ad817646789d043",
     "/runtime.1a6e930b79e0fdda.js": "3a192f03d0b1c70a464df6967f5d6eb7db347b87",
-    "/scripts.16f9259526a5167e.js": "c1d47d39bbb41f07d30b8e4e51503f63515259e0",
-    "/styles.4eea28f5aa4c28c8.css": "8eba4ac8861c1dd863cc0d0fa3955486b18fe30e"
+    "/scripts.a93305f457ed440a.js": "171f06f3b7b940f326223090c5f9a027ea15038a",
+    "/styles.1761a930b781ce32.css": "b60cca3552947689ff68c9c5e27064ca545bf38e"
   },
   "navigationUrls": [
     {
