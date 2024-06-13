@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1718210190602,
+  "timestamp": 1718308708933,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,12 +13,12 @@
       "urls": [
         "/FishVueIcon.ico",
         "/index.html",
-        "/main.a6ca4023cef1491e.js",
+        "/main.a783dc9571b06f26.js",
         "/manifest.webmanifest",
-        "/polyfills.a319b8be6f75779c.js",
+        "/polyfills.db512a18fb935104.js",
         "/runtime.eda445ea9a5f72ff.js",
         "/scripts.3e08a21c01440e5e.js",
-        "/styles.88e410ce6da2e336.css"
+        "/styles.c6366d672c003dc2.css"
       ],
       "patterns": []
     },
@@ -30,7 +30,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/EEZ_WestCoast_PacVes_shapefile.zip",
         "/assets/icons/icon-1024x1024.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
@@ -74,6 +73,7 @@
         "/assets/images/main_menu_options.png",
         "/assets/images/main_menu_sets.png",
         "/assets/images/noaa-emblem-rgb-withspace-2022.png",
+        "/assets/images/noaa-simple.png",
         "/assets/images/safari_download.jpg",
         "/assets/images/set_detail_1.png",
         "/assets/images/set_detail_2.png",
@@ -104,7 +104,6 @@
   "dataGroups": [],
   "hashTable": {
     "/FishVueIcon.ico": "164d7351a207aa3206132737a3e106040359df91",
-    "/assets/EEZ_WestCoast_PacVes_shapefile.zip": "9918fb89c65e6d98ce737f363ba8e1048e06e995",
     "/assets/icons/icon-1024x1024.png": "59b25c015268ec5859bcbb3907cd8852301c1332",
     "/assets/icons/icon-128x128.png": "d9f9f8063e018bc94ba11211fb3362d587fe1d12",
     "/assets/icons/icon-144x144.png": "6bc9aac0954895dbbcda312d1f33db25aa5f4b06",
@@ -148,6 +147,7 @@
     "/assets/images/main_menu_options.png": "17f189af8f1dcd244e2f5812e03252670ad8fca3",
     "/assets/images/main_menu_sets.png": "0cd45079529383496d1a6e25e854afbc9bc994d3",
     "/assets/images/noaa-emblem-rgb-withspace-2022.png": "9cd2668c4405dbf6618d49810b2f7a23fe0f61ff",
+    "/assets/images/noaa-simple.png": "89c39887cd69c0bee82443c0e85272fa4cb092ec",
     "/assets/images/safari_download.jpg": "d6ab85f2977165263ee5c82512634bea8d4b7179",
     "/assets/images/set_detail_1.png": "8e82370cae3865521e40aea326ca33f48cabfa70",
     "/assets/images/set_detail_2.png": "7ed19b009474a51798537791db54c5215ec19867",
@@ -161,8 +161,8 @@
     "/assets/images/view_delivery_1.png": "ec2e741b5a62e4adfe465dc973dd62cfd33a776d",
     "/assets/images/view_delivery_2.png": "b7efa02df434c8864df47f44a9da855a543b996f",
     "/assets/images/view_set_1.jpg": "9a4be7ec37a3db25e3edb7b1a94838fdbc92d46f",
-    "/index.html": "542925154220b4b0120078a5be078c6cb4359fc9",
-    "/main.a6ca4023cef1491e.js": "3ab0a1f17fa4bebbddde011396ef050bb4e07b63",
+    "/index.html": "fe889985d53b93afe707813db966410f373061a4",
+    "/main.a783dc9571b06f26.js": "77279dc0cbb470dbf95d0c7c761e279395230471",
     "/manifest.webmanifest": "a03492d6eec34c8f437f92e04dbe842d66b3be86",
     "/material-icons-outlined.78a93b2079680a08.woff": "b52ccd8fca4199d257b2a9fe377db29862f2853e",
     "/material-icons-outlined.f86cb7b0aa53f0fe.woff2": "2f9e28ab559782402f27332633c843c40209d95a",
@@ -174,10 +174,10 @@
     "/material-icons-two-tone.675bd578bd14533e.woff2": "296ff0bff395a77c2e33e7e31fffe73980bd93cf",
     "/material-icons.4ad034d2c499d9b6.woff": "e4bb7c1e40d3febee58df963db276b2bf68c117b",
     "/material-icons.59322316b3fd6063.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
-    "/polyfills.a319b8be6f75779c.js": "e9972c380b4aca7b8156585805a20f812f704682",
+    "/polyfills.db512a18fb935104.js": "eef0fb7a70d8fee0affc6f74f511bf2db9ce1387",
     "/runtime.eda445ea9a5f72ff.js": "70871ba0d5941f803433fa8a55533f2256cc72a6",
     "/scripts.3e08a21c01440e5e.js": "9ce9a26dd4f4caa9a753a24d0fa0b00ff72769ad",
-    "/styles.88e410ce6da2e336.css": "6a36203f735df434617c1a53c78c20497a4f4393"
+    "/styles.c6366d672c003dc2.css": "0cb3fbff1bf7cd41cea2704f9adc0f0e57303c9a"
   },
   "navigationUrls": [
     {
