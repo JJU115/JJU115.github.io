@@ -1,0 +1,70 @@
+A few different fisherman mentioned getting it when out of cell range,
+In area with bad/no cell reception, trying to log in, failed and dropdown lists wouldn't work.
+Both platforms, no so prevalent but maybe because filling out after the trip.
+
+
+
+Logbook editing
+
+- Fine to edit any field, time cap of 1 week past original submission date. 
+- Option to move over sets from active trip to in-edit trip.
+- Hope for, version number associated with record, just a one, two, three..
+- Original submission, with- Multiple edits allowed
+- Each resubmission doesn't need to include original submission time
+- User only needs to see latest update on app
+- Big warning to submit edits and option to discard edits
+- If starting edits but didn't finish, make it clear to user
+- Discard unsubmitted edits if time window passes
+
+- Logbook with version and date of resubmission to send to same logbook submit endpoint
+
+
+
+
+Left to do on current implementation
+- Reload on a page while editing the delivery
+- Delivery list indicates edited delivery
+- Conflict resolver for edited landing
+- Set adding functionality in editing
+- Trip validator works with edited delivery
+- Summary report adjusted to accommodate edited delivery
+- Warnings when editing/discarding changes, check if multiple logbooks being edited
+- Submission functionality. Hitting same submission endpoint, new fields on submission model
+- What if set part of edited delivery is also part of current delivery?
+- When to check if edit deadline has passed for delivery in edit? Login? App component startup?
+- When submitting, when going to edited delivery, in app startup
+
+Bugs
+- Adding vessels while offline causes duplicate vessels in lists --done!
+- Refresh token messing things up after going airplane mode then back online?
+- Help section! - Try breaking everything down to a class inheritance scheme?
+-- Operator name is not saving on resubmitted deliveries, it shows as correct everywhere except the detail page
+
+
+More/Better warnings when discarding edits?
+How to record re-submission date? Desired format?
+
+widow rockfish 1 22 2 33
+Bronzespotted rockfish 3 66 0 0
+Olive rockfish 4 52 1 12
+
+
+Now need to have existing sets editable?
+
+Approach:
+
+When user goes to edit a pre-existing set:
+1. Recreate that set and add it to user_sets on device
+	- This will mess with the preExistingSets map variable on the delivery detail.
+
+2. From there it's like any other set, code to handle its updates if on edited delivery is already there I think
+	- Should it be prevented from being added to current delivery?
+	- If the edits are discarded, should the recreated set be deleted?
+	- Maybe add an extra variable to the set model, indicating if it's an old set?
+	
+	
+
+
+Another approach:
+- Don't create a new set, pull it out and save it entirely within the edited_delivery
+- Back button, home button
