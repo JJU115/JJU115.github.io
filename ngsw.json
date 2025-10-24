@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1750803297526,
+  "timestamp": 1761334130081,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,12 +13,11 @@
       "urls": [
         "/FishVueIcon.ico",
         "/index.html",
-        "/main.3704c4699c9af1f1.js",
+        "/main-YD23RG3U.js",
         "/manifest.webmanifest",
-        "/polyfills.92bedf81d03362dd.js",
-        "/runtime.7cc03dea3588a32e.js",
-        "/scripts.4f1207a2d6258980.js",
-        "/styles.0836ae52467b3891.css"
+        "/polyfills-PP3P7N5C.js",
+        "/scripts-65RB4HT3.js",
+        "/styles-DHWP4YOF.css"
       ],
       "patterns": []
     },
@@ -92,17 +91,7 @@
         "/assets/images/vessel_reg_2.jpg",
         "/assets/images/view_delivery_1.png",
         "/assets/images/view_delivery_2.png",
-        "/assets/images/view_set_1.png",
-        "/material-icons-outlined.78a93b2079680a08.woff",
-        "/material-icons-outlined.f86cb7b0aa53f0fe.woff2",
-        "/material-icons-round.92dc7ca2f4c591e7.woff",
-        "/material-icons-round.b10ec9db5b7fbc74.woff2",
-        "/material-icons-sharp.3885863ee4746422.woff2",
-        "/material-icons-sharp.a71cb2bf66c604de.woff",
-        "/material-icons-two-tone.588d63134de807a7.woff",
-        "/material-icons-two-tone.675bd578bd14533e.woff2",
-        "/material-icons.4ad034d2c499d9b6.woff",
-        "/material-icons.59322316b3fd6063.woff2"
+        "/assets/images/view_set_1.png"
       ],
       "patterns": []
     }
@@ -173,23 +162,12 @@
     "/assets/images/view_delivery_1.png": "ec2e741b5a62e4adfe465dc973dd62cfd33a776d",
     "/assets/images/view_delivery_2.png": "b7efa02df434c8864df47f44a9da855a543b996f",
     "/assets/images/view_set_1.png": "d12898348cd19673c62c28925dafdb4cf677674b",
-    "/index.html": "65369e8664f20385bb01c6a097349da112bcefdc",
-    "/main.3704c4699c9af1f1.js": "dc0d70e1b7526d3d40f4a06d98b2c118ad6cebc9",
+    "/index.html": "f40cf5f265aab8c43b15ddf9f70f89416a4854de",
+    "/main-YD23RG3U.js": "365b91417002224895a40be10471117dbaa590d9",
     "/manifest.webmanifest": "a03492d6eec34c8f437f92e04dbe842d66b3be86",
-    "/material-icons-outlined.78a93b2079680a08.woff": "b52ccd8fca4199d257b2a9fe377db29862f2853e",
-    "/material-icons-outlined.f86cb7b0aa53f0fe.woff2": "2f9e28ab559782402f27332633c843c40209d95a",
-    "/material-icons-round.92dc7ca2f4c591e7.woff": "c41bfee3f01218e18d53f4f4cac00f385ac9fbb1",
-    "/material-icons-round.b10ec9db5b7fbc74.woff2": "abe05e0641f1050fbe00ef0dbb10c5ea72c26cff",
-    "/material-icons-sharp.3885863ee4746422.woff2": "cf1c7b4d066d18af44cf7bc664dd2e46652a3a30",
-    "/material-icons-sharp.a71cb2bf66c604de.woff": "829cb48cb2dd17ae5e425b82dc186eb670694a10",
-    "/material-icons-two-tone.588d63134de807a7.woff": "02225d888afe4eebc7312b7432878dc8aef1f50f",
-    "/material-icons-two-tone.675bd578bd14533e.woff2": "296ff0bff395a77c2e33e7e31fffe73980bd93cf",
-    "/material-icons.4ad034d2c499d9b6.woff": "e4bb7c1e40d3febee58df963db276b2bf68c117b",
-    "/material-icons.59322316b3fd6063.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
-    "/polyfills.92bedf81d03362dd.js": "31dc9c92746b2e09141ffc7a6f0abf65352c1314",
-    "/runtime.7cc03dea3588a32e.js": "1e1c3ccdda06294444d9b35e75a647e6ccb30f43",
-    "/scripts.4f1207a2d6258980.js": "6fb6cf61c061609debc0edc2b59465c6d0995dfa",
-    "/styles.0836ae52467b3891.css": "e0fa32c7ab0ef1879f4840571aea5cfa74d61026"
+    "/polyfills-PP3P7N5C.js": "6432fd41f9063dd9e15ea3b6548394e3f22c47d5",
+    "/scripts-65RB4HT3.js": "fe20dca7e0900a47895085020bfcc69205c8d3f4",
+    "/styles-DHWP4YOF.css": "7795d8b7f864788ec25c1fa32eb8fb79c4203872"
   },
   "navigationUrls": [
     {

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/add-unloading-dialog/add-unloading-dialog.component.css"],
+  "sourcesContent": [".dialog-container {\n  display: flex;\n  flex-direction: column;\n  height: 100%;\n  padding: 24px;\n}\n\n.top-right {\n  position: absolute;\n  top: 16px;\n  right: 28px;\n}\n\n.buttons {\n  display: flex;\n  justify-content: space-between;\n  margin-top: auto;\n}\n\n.add-species-button {\n  display: flex;\n  justify-content: flex-end;\n  margin-bottom: 20px;\n}\n\n.mat-mdc-row .mat-mdc-cell {\n  border-bottom: 1px ridge currentColor;\n  border-top: 1px ridge currentColor;\n  cursor: pointer;\n}\n\n.mat-mdc-row:hover .mat-mdc-cell {\n  background-color: gray;\n}\n\n.mat-column-species {\n  padding-left: 5px;\n}\n\n.mat-column-poundsLanded {\n  border-left: 1px ridge currentColor;\n  border-right: 1px ridge currentColor;\n  padding-left: 5px;\n}\n\n.mat-mdc-header-row {\n  background-color: azure;\n}\n\n.mat-mdc-row {\n  border-bottom: 1px ridge currentColor;\n}\n"],
+  "mappings": "AAAA,CAAC,iBACC,QAAS,KACT,eAAgB,OAChB,OAAQ,KAHV,QAIW,IACX,CAEA,CAAC,UACC,SAAU,SACV,IAAK,KACL,MAAO,IACT,CAEA,CAAC,QACC,QAAS,KACT,gBAAiB,cACjB,WAAY,IACd,CAEA,CAAC,mBACC,QAAS,KACT,gBAAiB,SACjB,cAAe,IACjB,CAEA,CAAC,YAAY,CAAC,aACZ,cAAe,IAAI,MAAM,aACzB,WAAY,IAAI,MAAM,aACtB,OAAQ,OACV,CAEA,CANC,WAMW,OAAO,CANL,aAOZ,iBAAkB,IACpB,CAEA,CAAC,mBACC,aAAc,GAChB,CAEA,CAAC,wBACC,YAAa,IAAI,MAAM,aACvB,aAAc,IAAI,MAAM,aACxB,aAAc,GAChB,CAEA,CAAC,mBACC,iBAAkB,KACpB,CAEA,CAxBC,YAyBC,cAAe,IAAI,MAAM,YAC3B",
+  "names": []
+}
