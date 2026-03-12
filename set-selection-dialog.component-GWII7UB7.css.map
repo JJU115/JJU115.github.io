@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/set-selection-dialog/set-selection-dialog.component.css"],
-  "sourcesContent": ["\r\n\r\n::ng-deep .mat-mdc-list-option .mdc-checkbox .mdc-checkbox__native-control:enabled:checked~.mdc-checkbox__background {\r\n  background-color: #ff6f61 !important;\r\n  border-color: #ff6f61 !important;\r\n}\r\n"],
-  "mappings": "AAEA,UAAU,CAAC,oBAAoB,CAAC,aAAa,CAAC,4BAA4B,QAAQ,QAAQ,CAAC,CAAC,yBAC1F,iBAAkB,kBAClB,aAAc,iBAChB",
-  "names": []
-}

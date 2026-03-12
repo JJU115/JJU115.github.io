@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/gear-select-dialog/gear-select-dialog.component.css"],
-  "sourcesContent": [".mat-mdc-dialog-container .mdc-dialog__surface {\r\n  padding: 24px !important;\r\n}\r\n\r\n/* Top bar */\r\n.spacer {\r\n    flex: 1 1 auto;\r\n}\r\n\r\n/* Gear list */\r\n.gear-list {\r\n  display: flex;\r\n  flex-direction: column;\r\n  height: 90%;\r\n  padding-bottom: 25px;\r\n}\r\n\r\n/* Colored buttons - orange */\r\n.color-button-orange {\r\n  background-color: #ff6f61 !important;\r\n  color: white !important;\r\n  font-size: 18px;\r\n}\r\n\r\n/* Selected gear */\r\n.card-selected {\r\n  color: white;\r\n  background-color: #004165;\r\n}\r\n\r\n/* Unselected gear */\r\n.card-normal {\r\n  color: black;\r\n  background-color: aliceblue;\r\n}\r\n\r\n::ng-deep .mdc-radio__inner-circle {\r\n  border-color: #ff6f61 !important;\r\n}\r\n\r\n::ng-deep .mdc-radio__outer-circle {\r\n  border-color: #ff6f61 !important;\r\n}"],
-  "mappings": "AAAA,CAAC,yBAAyB,CAAC,oBAA3B,QACW,cACX,CAGA,CAAC,OACG,KAAM,EAAE,EAAE,IACd,CAGA,CAAC,UACC,QAAS,KACT,eAAgB,OAChB,OAAQ,IACR,eAAgB,IAClB,CAGA,CAAC,oBACC,iBAAkB,kBAClB,MAAO,eACP,UAAW,IACb,CAGA,CAAC,cACC,MAAO,KACP,iBAAkB,OACpB,CAGA,CAAC,YACC,MAAO,KACP,iBAAkB,OACpB,CAEA,UAAU,CAAC,wBACT,aAAc,iBAChB,CAEA,UAAU,CAAC,wBACT,aAAc,iBAChB",
-  "names": []
-}

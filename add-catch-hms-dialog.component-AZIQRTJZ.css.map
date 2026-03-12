@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/add-catch-hms-dialog/add-catch-hms-dialog.component.css"],
-  "sourcesContent": ["\n/* Favorite Species and Previous Species */\n.species-list {\n  background-color: #004165 !important;\n  width: 100%;\n  font-size: larger !important;\n}\n\n.add-species-btn {\n  display: flex !important;\n  align-items: baseline !important;\n  background-color: #3ebfb9 !important;\n  width: 100%;\n  font-size: larger !important;\n}\n\n::ng-deep .mat-mdc-standard-chip:not(.mdc-evolution-chip--disabled) .mdc-evolution-chip__text-label {\n  color: white !important;\n}\n"],
-  "mappings": "AAEA,CAAC,aACC,iBAAkB,kBAClB,MAAO,KACP,UAAW,gBACb,CAEA,CAAC,gBACC,QAAS,eACT,YAAa,mBACb,iBAAkB,kBAClB,MAAO,KACP,UAAW,gBACb,CAEA,UAAU,CAAC,qBAAqB,KAAK,CAAC,8BAA8B,CAAC,+BACnE,MAAO,cACT",
-  "names": []
-}

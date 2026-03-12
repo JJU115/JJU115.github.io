@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/login/login.component.css"],
-  "sourcesContent": [".center {\n  display: block;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n/* Color buttons - blue */\n.color-button-blue {\n  background-color: #004165 !important;\n  color: white !important;\n  font-size: 16px;\n}\n\n.mat-mdc-progress-bar {\n  background-color: #004165;\n  --mat-progress-bar-track-color: white;\n}"],
-  "mappings": "AAAA,CAAC,OACC,QAAS,MACT,YAAa,KACb,aAAc,IAChB,CAGA,CAAC,kBACC,iBAAkB,kBAClB,MAAO,eACP,UAAW,IACb,CAEA,CAAC,qBACC,iBAAkB,QAClB,gCAAgC,KAClC",
-  "names": []
-}

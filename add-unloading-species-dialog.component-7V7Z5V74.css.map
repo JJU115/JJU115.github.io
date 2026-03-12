@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/add-unloading-dialog/add-unloading-species-dialog/add-unloading-species-dialog.component.css"],
-  "sourcesContent": [".dialog-container {\n  display: flex;\n  flex-direction: column;\n  height: 100%;\n  padding: 24px;\n}\n\n.top-right {\n  position: absolute;\n  top: 16px;\n  right: 28px;\n}\n\n.buttons {\n  display: flex;\n  justify-content: space-between;\n  margin-top: auto;\n}\n"],
-  "mappings": "AAAA,CAAC,iBACC,QAAS,KACT,eAAgB,OAChB,OAAQ,KAHV,QAIW,IACX,CAEA,CAAC,UACC,SAAU,SACV,IAAK,KACL,MAAO,IACT,CAEA,CAAC,QACC,QAAS,KACT,gBAAiB,cACjB,WAAY,IACd",
-  "names": []
-}

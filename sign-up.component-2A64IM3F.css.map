@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/sign-up/sign-up.component.css"],
-  "sourcesContent": ["/* Colored buttons - blue */\r\n.color-button-blue {\r\n  background-color: #005d87 !important;\r\n  color: white !important;\r\n}\r\n\r\n.center {\r\n  display: block;\r\n  margin-left: auto;\r\n  margin-right: auto;\r\n}\r\n\r\n/* Color buttons - orange */\r\n.color-button-orange {\r\n  background-color: #ff6f61 !important;\r\n  color: white !important;\r\n}\r\n\r\n.password-row {\r\n  padding-top: 25px;\r\n}\r\n\r\n::ng-deep .mdc-checkbox .mdc-checkbox__native-control:enabled:checked~.mdc-checkbox__background {\r\n  border-color: coral !important;\r\n  background-color: coral !important;\r\n}"],
-  "mappings": "AACA,CAAC,kBACC,iBAAkB,kBAClB,MAAO,cACT,CAEA,CAAC,OACC,QAAS,MACT,YAAa,KACb,aAAc,IAChB,CAGA,CAAC,oBACC,iBAAkB,kBAClB,MAAO,cACT,CAEA,CAAC,aACC,YAAa,IACf,CAEA,UAAU,CAAC,aAAa,CAAC,4BAA4B,QAAQ,QAAQ,CAAC,CAAC,yBACrE,aAAc,gBACd,iBAAkB,eACpB",
-  "names": []
-}

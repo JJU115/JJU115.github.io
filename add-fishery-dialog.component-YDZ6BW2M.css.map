@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/add-fishery-dialog/add-fishery-dialog.component.css"],
-  "sourcesContent": [".dialog-container {\n  display: flex;\n  flex-direction: column;\n  height: 100%;\n  padding: 12px;\n}\n\n.row.buttons {\n  display: flex;\n  justify-content: space-between;\n  padding: 2rem;\n}\n"],
-  "mappings": "AAAA,CAAC,iBACC,QAAS,KACT,eAAgB,OAChB,OAAQ,KAHV,QAIW,IACX,CAEA,CAAC,GAAG,CAAC,QACH,QAAS,KACT,gBAAiB,cATnB,QAUW,IACX",
-  "names": []
-}

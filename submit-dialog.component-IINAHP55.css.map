@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/submit-dialog/submit-dialog.component.css"],
-  "sourcesContent": ["/* Color buttons - orange */\n.color-button-orange {\n  background-color: #ff6f61;\n  color: white;\n}\n"],
-  "mappings": "AACA,CAAC,oBACC,iBAAkB,QAClB,MAAO,IACT",
-  "names": []
-}

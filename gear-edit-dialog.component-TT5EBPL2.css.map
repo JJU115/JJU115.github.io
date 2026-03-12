@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/gear-edit-dialog/gear-edit-dialog.component.css"],
-  "sourcesContent": ["/* Other style for species dialog */\r\n.dialog-container {\r\n  display: flex;\r\n  flex-direction: column;\r\n  height: 100%;\r\n  padding: 24px;\r\n}\r\n\r\n/* DELETE/ADD buttons */\r\n.buttons {\r\n  display: flex;\r\n  justify-content: space-between;\r\n  margin-top: auto;\r\n}\r\n"],
-  "mappings": "AACA,CAAC,iBACC,QAAS,KACT,eAAgB,OAChB,OAAQ,KAJV,QAKW,IACX,CAGA,CAAC,QACC,QAAS,KACT,gBAAiB,cACjB,WAAY,IACd",
-  "names": []
-}

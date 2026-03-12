@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/gear-forms/pot-form/pot-form.component.css"],
-  "sourcesContent": ["@media only screen and (max-width: 400px) {\r\n\r\n  /* Cancel */\r\n  .back-button {\r\n    padding-left: 5px;\r\n  }\r\n\r\n  /* Confirm */\r\n  .confirm-button {\r\n    padding-left: 5px;\r\n  }\r\n}\r\n"],
-  "mappings": "AAAA,OAAO,KAAK,OAAO,IAAI,CAAC,SAAS,EAAE,OAGjC,CAAC,YAKD,CAAC,eAJC,aAAc,GAChB,CAMF",
-  "names": []
-}

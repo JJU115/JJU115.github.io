@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/profile/profile.component.css"],
-  "sourcesContent": ["\n::ng-deep .mat-spinner-color circle {\n  stroke: white !important;\n}\n\n/* Top-left icon buttons */\n.example-icon {\n  color: white;\n}\n\n.example-action-buttons {\n  padding-bottom: 20px;\n}\n\n.text-button {\n  flex-grow: 0.9;\n}\n"],
-  "mappings": "AACA,UAAU,CAAC,kBAAkB,OAC3B,OAAQ,cACV,CAGA,CAAC,aACC,MAAO,IACT,CAEA,CAAC,uBACC,eAAgB,IAClB,CAEA,CAAC,YACC,UAAW,EACb",
-  "names": []
-}
