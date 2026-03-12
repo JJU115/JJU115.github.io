@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/vessel-reg/vessel-reg.component.css"],
+  "sourcesContent": [".center {\r\n  display: block;\r\n  margin-left: auto;\r\n  margin-right: auto;\r\n}\r\n\r\n.example-spacer {\r\n  flex: 1 1 auto;\r\n}\r\n\r\n.recognized-vessel {\r\n  background-color:darkgreen;\r\n}\r\n\r\n.unrecognized-vessel {\r\n  background-color: crimson;\r\n}\r\n\r\n.recognized {\r\n  font-size: smaller;\r\n  font-style: oblique;\r\n}\r\n\r\n/* Color buttons - orange */\r\n.color-button-orange {\r\n  background-color: #ff6f61 !important;\r\n  color: white !important;\r\n}\r\n\r\n/* Skip or Confirm button padding */\r\n.pad-button {\r\n  padding-left: 0%;\r\n  padding-right: 0%;\r\n}\r\n"],
+  "mappings": "AAAA,CAAC,OACC,QAAS,MACT,YAAa,KACb,aAAc,IAChB,CAEA,CAAC,eACC,KAAM,EAAE,EAAE,IACZ,CAEA,CAAC,kBACC,iBAAiB,OACnB,CAEA,CAAC,oBACC,iBAAkB,OACpB,CAEA,CAAC,WACC,UAAW,QACX,WAAY,OACd,CAGA,CAAC,oBACC,iBAAkB,kBAClB,MAAO,cACT,CAGA,CAAC,WACC,aAAc,GACd,cAAe,EACjB",
+  "names": []
+}

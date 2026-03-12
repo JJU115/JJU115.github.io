@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/tel-input/tel-input.component.css"],
+  "sourcesContent": [".example-tel-input-container {\n    display: flex;\n  }\n  \n  .example-tel-input-element {\n    border: none;\n    background: none;\n    padding: 0;\n    outline: none;\n    font: inherit;\n    text-align: center;\n  }\n  \n  .example-tel-input-spacer {\n    opacity: 0;\n    transition: opacity 200ms;\n  }\n  \n  :host.example-floating .example-tel-input-spacer {\n    opacity: 1;\n  }"],
+  "mappings": "AAAA,CAAC,4BACG,QAAS,IACX,CAEA,CAAC,0BACC,OAAQ,KACR,WAAY,KANhB,QAOa,EACT,QAAS,KACT,KAAM,QACN,WAAY,MACd,CAEA,CAAC,yBACC,QAAS,EACT,WAAY,QAAQ,GACtB,CAEA,KAAK,CAAC,iBAAiB,CALtB,yBAMC,QAAS,CACX",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/gear-type-dialog/gear-type-dialog.component.css"],
+  "sourcesContent": ["/* Gear type container */\r\n.type-container {\r\n  display: flex;\r\n  flex-direction: column;\r\n  height: 90% !important;\r\n}\r\n\r\n.type-confirm {\r\n  margin-top: auto;\r\n}\r\n\r\n.radio-option {\r\n  margin-top: 10px;\r\n  margin-bottom: 10px;\r\n}\r\n\r\n::ng-deep .mdc-form-field>label {\r\n  font-size: 20px !important;\r\n}\r\n\r\n/* Colored buttons - orange */\r\n.color-button-orange {\r\n  background-color: #ff6f61;\r\n  color: white;\r\n  font-size: 18px;\r\n}\r\n\r\n::ng-deep .mat-mdc-radio-button .mdc-radio .mdc-radio__native-control:enabled:checked+.mdc-radio__background .mdc-radio__outer-circle .mdc-radio__inner-circle {\r\n  border-color: #ff6f61 !important;\r\n}"],
+  "mappings": "AACA,CAAC,eACC,QAAS,KACT,eAAgB,OAChB,OAAQ,aACV,CAEA,CAAC,aACC,WAAY,IACd,CAEA,CAAC,aACC,WAAY,KACZ,cAAe,IACjB,CAEA,UAAU,CAAC,cAAc,CAAC,MACxB,UAAW,cACb,CAGA,CAAC,oBACC,iBAAkB,QAClB,MAAO,KACP,UAAW,IACb,CAEA,UAAU,CAAC,qBAAqB,CAAC,UAAU,CAAC,yBAAyB,QAAQ,QAAQ,CAAC,CAAC,sBAAsB,CAAC,wBAAwB,CAAC,wBACrI,aAAc,iBAChB",
+  "names": []
+}

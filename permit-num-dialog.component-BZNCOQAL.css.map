@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/permit-num-dialog/permit-num-dialog.component.css"],
+  "sourcesContent": [".spacer {\n    flex: 1 1 auto;\n}\n\n\n.card-selected {\n    color: black;\n    background-color: darkgray;\n}\n\n.card-normal {\n    color: black;\n    background-color: aliceblue;\n}"],
+  "mappings": "AAAA,CAAC,OACG,KAAM,EAAE,EAAE,IACd,CAGA,CAAC,cACG,MAAO,KACP,iBAAkB,OACtB,CAEA,CAAC,YACG,MAAO,KACP,iBAAkB,OACtB",
+  "names": []
+}
